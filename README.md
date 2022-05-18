@@ -1,4 +1,4 @@
-MATLAB App Designer GUI: Designing a program that can edit images with different filters
+Application capable of editing images with different filters
 
 EDITOR Executable
 
